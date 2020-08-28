@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: autogradcupy
+Version: 0.1
+Summary: autograd wrapper for CuPy
+Home-page: UNKNOWN
+Author: miguel myers
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: machine learning,deep learning
+Platform: UNKNOWN
